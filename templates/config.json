@@ -1,0 +1,7 @@
+{
+    "class_name": "ClassName",
+    "author": "First Last (shrt)",
+    "date": "dd.mm.yyyy",
+    "package": "packagename",
+    "include_guard": "PACKAGENAME_CLASSNAME"
+}
